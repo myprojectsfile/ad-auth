@@ -1,0 +1,4 @@
+username: BPMO\Ahmadi.Mohammad
+sid:S-1-5-21-4022926743-3379994073-2727559296-2890
+and you belong to following groups: 
+["BPMO\\Domain Users","\\Everyone","TI26206210\\docker-users","BUILTIN\\Administrators","BUILTIN\\Users","BUILTIN\\Performance Log Users","NT AUTHORITY\\INTERACTIVE","\\CONSOLE LOGON","NT AUTHORITY\\Authenticated Users","NT AUTHORITY\\This Organization","NT AUTHORITY\\LogonSessionId_0_708707","\\LOCAL","BPMO\\Support-Group","BPMO\\PSO-Group","BPMO\\Internet Special Access","BPMO\\Remote Desktop Services","BPMO\\TI-Group","\\Authentication authority asserted identity","Mandatory Label\\Medium Mandatory Level"]
