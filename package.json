@@ -1,0 +1,19 @@
+{
+  "name": "ldap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-ntlm": "^2.3.0",
+    "node-sspi": "^0.2.5",
+    "passport": "^0.4.0",
+    "passport-ldapauth": "^2.1.2"
+  }
+}
